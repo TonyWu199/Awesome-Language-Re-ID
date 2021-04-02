@@ -1,5 +1,5 @@
-# Awesome-Language-Re-ID
-List of published papers for natural language based Re-ID
+# Awesome-Language-Person Search
+List of published papers for natural language based person search
 
 1. Person Search with Natural Language Description[[paper](https://arxiv.org/abs/1702.05729)]. CVPR' 2017
 
